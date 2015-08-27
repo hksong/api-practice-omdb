@@ -1,2 +1,11 @@
+#container {
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 2em;
+}
 
-
+span {
+	margin: 1em 1em;
+	width: 50%;
+}
